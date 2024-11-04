@@ -1,6 +1,6 @@
 public class Test{
   public static void main(String args[]){
-    System.out.println("hello Test class");
+    System.out.println("hello Test class: first run");
   }
 
 }
